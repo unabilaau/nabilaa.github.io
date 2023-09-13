@@ -6,7 +6,7 @@
     <meta name="keywords" content="Thomas Edison"> 
     <meta name="author" content="Nabila Akter"> 
     <title>
-      Nabila Akter Senior Porfolio Thomas Edison CTE HS 
+    Nabila Akter Senior Porfolio Thomas Edison CTE HS 
     </title>
   </head>
   <body>
